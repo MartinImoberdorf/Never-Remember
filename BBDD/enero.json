@@ -1,0 +1,187 @@
+[
+    {   
+        "nombre_evento":"Día de Año Nuevo",
+        "dia":"01",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día del Dominio Público",
+        "dia":"01",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Internacional del Policía",
+        "dia":"02",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Mundial del Braille",
+        "dia":"04",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Mundial de la Hipnosis",
+        "dia":"04",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día de Reyes",
+        "dia":"06",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día del Sello Postal",
+        "dia":"07",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día del Ascenso en Globo",
+        "dia":"09",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Mundial de Lucha contra la Depresión",
+        "dia":"13",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Mundial de la Lógica",
+        "dia":"14",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Internacional de la Cometa",
+        "dia":"14",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Internacional de The Beatles",
+        "dia":"16",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Internacional de la Croqueta",
+        "dia":"16",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Mundial de la Nieve",
+        "dia":"17",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Mundial de la Religión",
+        "dia":"17",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Blue Monday (Día más triste del año)",
+        "dia":"18",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día de Martin Luther King",
+        "dia":"18",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día de Concienciación por los Pinguinos",
+        "dia":"20",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Internacional del Abrazo",
+        "dia":"21",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Mundial de la Ardilla",
+        "dia":"21",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Europeo de la Mediación",
+        "dia":"21",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Internacional de la Educación",
+        "dia":"24",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Mundial de la Cultura Africana y Afrodescendiente",
+        "dia":"24",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Mundial del Síndrome de Moebius",
+        "dia":"24",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Internacional del Comunity Manager",
+        "dia":"25",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Mundial de la Educación Ambiental",
+        "dia":"26",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Internacional de la Aduana",
+        "dia":"26",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Internacional de Conmemoración de las Víctimas del Holocausto",
+        "dia":"27",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Internacional del Conservador Restaurador",
+        "dia":"27",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Europeo de la Protección de Datos",
+        "dia":"28",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Mundial de la Acción frente al Calentamiento Terrestre",
+        "dia":"28",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Escolar de la Paz y la No Violencia",
+        "dia":"30",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Internacional del Croissant",
+        "dia":"30",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Internacional del Técnico Electrónico",
+        "dia":"30",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Mundial de la Enfermedades Tropicales Desatendidas (ETD)",
+        "dia":"30",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Mundial contra la Lepra",
+        "dia":"31",
+        "mes":"01"
+    },
+    {   
+        "nombre_evento":"Día Internacional del Mago",
+        "dia":"31",
+        "mes":"01"
+    }
+]
