@@ -1,5 +1,13 @@
 # Never-Remember
+Version 1.0
+
 What you always forget...
+
+🟧 Never Remember is a project made by me, in order to remind you of the different events of each date.
+
+🟧 It is created to start the program when the computer is turned on, first seeing the events of that day, so you must save the file in 
+    C: \ ProgramData \ Microsoft \ Windows \ Start Menu \ Programs \ StartUp
+
 
 MIT License
 
