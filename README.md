@@ -3,7 +3,7 @@ What you always forget...
 
 MIT License
 
-Copyright (c) [2021] [Martín José Imoberdorf]
+Copyright (c) 2021 Martín José Imoberdorf
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
